@@ -219,6 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Big raw data (Steam games.csv is ~400 MB, over GitHub's 100 MB limit) — each teammate downloads it from Kaggle
 data/raw/
 .DS_Store
