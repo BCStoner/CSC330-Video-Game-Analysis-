@@ -1,1 +1,1 @@
-# CSC330-Video-Game-Analysis-
+Video-Game-Analysis
